@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/1a94517ac595498e963ad9f332b21a5d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a src='https://www.loom.com/share/1a94517ac595498e963ad9f332b21a5d' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
