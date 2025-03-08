@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a src='https://www.loom.com/share/1a94517ac595498e963ad9f332b21a5d' />
+<a src='https://www.loom.com/share/1a94517ac595498e963ad9f332b21a5d'></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
